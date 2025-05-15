@@ -8,7 +8,7 @@ In this exercise, you will learn how to:
 
 #### Step 1: Creating a Context
 
-1. Create a new file called `UserContext.js`.
+1. Create a new file called `UserContext.jsx`.
 2. Inside this file, create a `UserContext` and a `UserProvider` component that will hold the shared state.
 
 #### Step 2: Using `useContext` in Components
